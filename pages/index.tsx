@@ -118,6 +118,7 @@ const HomePage = () => {
                 <ul>
                     <li>Country: {country}</li>
                     <li>County: {county}</li>
+                    <li>City: {city}</li>
                     <li>Area: {sector}</li>
                     <li>Neighborhood: {neighborhood}</li>
                     <li>Address: {address}</li>
